@@ -1,0 +1,3 @@
+let sayHelloWorld = () => {
+  "Hello world!"
+};
